@@ -14,3 +14,6 @@ Response: The server responds with a list of all people, each containing the nam
 Reason for Writing This Code
 This code was written as part of an assignment for the ECSE3038 course at the University of the West Indies. The purpose is to practice building POST and GET request handlers with FastAPI, with a focus on handling data in JSON format and validating incoming requests. This assignment helps in understanding how to work with FastAPI to create simple API endpoints that perform CRUD operations.
 
+My Favorite Pokémon
+Im not really a pokemon fan but my favorite Pokémon would be Gengar. The reason is that Gengar is both spooky and mischievous, which I find really fun. Its ghostly nature and the way it plays tricks make it stand out among other Pokémon. Plus, its design is cool, and it’s got some great battle abilities!
+
